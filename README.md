@@ -7,7 +7,8 @@
 
 ## :computer: Projeto
 
-Aplicação mobile para simular o portfólio de uma empresa fictícia., código fonte do projeto foi desenvolvido com base no curso 
+Aplicação mobile para simular o portfólio de uma empresa fictícia, através de navegações de telas é possível visualizar as informações da empresa, 
+código fonte do projeto foi desenvolvido com base no curso 
 [Desenvolvimento Android e IOS com Flutter 2020 -Crie 15 Apps](https://www.udemy.com/course/desenvolvimento-android-e-ios-com-flutter/).
 
 
